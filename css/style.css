@@ -1,0 +1,17 @@
+body{
+    background-color: chartreuse;
+    background-image: url("fleur.jfif");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: bottom right;
+    back
+    }
+p{
+    color:red;
+}
+h1{
+    color:blue;
+}
+h1{
+    background-color: darkgoldenrod;
+}
